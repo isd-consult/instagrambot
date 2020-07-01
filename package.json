@@ -1,0 +1,14 @@
+{
+  "name": "instagram_msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hiccup",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  }
+}
